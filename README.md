@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NoahRamones
 - 👀 I’m interested in basketball, working out, and programming
-- 🌱 I’m currently learning python and java
-- 💞️ I’m looking to collaborate on on many things
+- 🌱 I’m currently learning python, java, SQL, and AI/ML
 - 📫 How to reach me ... via email noahtramones@gmail.com
 
 <!---
